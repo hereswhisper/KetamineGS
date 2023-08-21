@@ -1,4 +1,4 @@
-// Ketamine GS | Do not leak faggot
+// Ketamine GS | Do not leak faggot (i'm bi, I can say that)
 #include <Windows.h>
 #include "SDK.hpp"
 #include "MinHook.h"
