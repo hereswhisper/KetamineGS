@@ -1,0 +1,89 @@
+﻿  dllmain.cpp
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\Basic.hpp(128,31): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\Engine_structs.hpp(783,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\Engine_structs.hpp(783,2): warning C4369: 'SDK::EVoiceSampleRate::Low16000Hz':  enumerator value '16000' cannot be represented as 'unsigned char', value is '16000'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\Engine_structs.hpp(784,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\Engine_structs.hpp(784,2): warning C4369: 'SDK::EVoiceSampleRate::Normal24000Hz':  enumerator value '24000' cannot be represented as 'unsigned char', value is '24000'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\Engine_structs.hpp(785,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\Engine_structs.hpp(785,2): warning C4369: 'SDK::EVoiceSampleRate::EVoiceSampleRate_MAX':  enumerator value '24001' cannot be represented as 'unsigned char', value is '24001'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\Engine_structs.hpp(3279,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\Engine_structs.hpp(3279,2): warning C4369: 'SDK::ESkinCacheUsage::ESkinCacheUsage_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\Engine_structs.hpp(3601,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\Engine_structs.hpp(3601,2): warning C4369: 'SDK::ESoundWaveLoadingBehavior::ESoundWaveLoadingBehavior_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\Niagara_structs.hpp(165,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\Niagara_structs.hpp(165,2): warning C4369: 'SDK::ENDISkeletalMesh_SkinningMode::ENDISkeletalMesh_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\HeadMountedDisplay_structs.hpp(23,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\HeadMountedDisplay_structs.hpp(23,2): warning C4369: 'SDK::EXRTrackedDeviceType::EXRTrackedDeviceType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(50,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(50,2): warning C4369: 'SDK::EInputDevices::TabletFingers':  enumerator value '1024' cannot be represented as 'unsigned char', value is '1024'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(51,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(51,2): warning C4369: 'SDK::EInputDevices::EInputDevices_MAX':  enumerator value '1025' cannot be represented as 'unsigned char', value is '1025'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(66,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(66,2): warning C4369: 'SDK::ETransformGizmoSubElements::RotateAxisY':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(67,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(67,2): warning C4369: 'SDK::ETransformGizmoSubElements::RotateAxisZ':  enumerator value '512' cannot be represented as 'unsigned char', value is '512'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(68,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(68,2): warning C4369: 'SDK::ETransformGizmoSubElements::RotateAllAxes':  enumerator value '896' cannot be represented as 'unsigned char', value is '896'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(69,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(69,2): warning C4369: 'SDK::ETransformGizmoSubElements::ScaleAxisX':  enumerator value '1024' cannot be represented as 'unsigned char', value is '1024'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(70,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(70,2): warning C4369: 'SDK::ETransformGizmoSubElements::ScaleAxisY':  enumerator value '2048' cannot be represented as 'unsigned char', value is '2048'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(71,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(71,2): warning C4369: 'SDK::ETransformGizmoSubElements::ScaleAxisZ':  enumerator value '4096' cannot be represented as 'unsigned char', value is '4096'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(72,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(72,2): warning C4369: 'SDK::ETransformGizmoSubElements::ScaleAllAxes':  enumerator value '7168' cannot be represented as 'unsigned char', value is '7168'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(73,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(73,2): warning C4369: 'SDK::ETransformGizmoSubElements::ScalePlaneYZ':  enumerator value '8192' cannot be represented as 'unsigned char', value is '8192'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(74,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(74,2): warning C4369: 'SDK::ETransformGizmoSubElements::ScalePlaneXZ':  enumerator value '16384' cannot be represented as 'unsigned char', value is '16384'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(75,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(75,2): warning C4369: 'SDK::ETransformGizmoSubElements::ScalePlaneXY':  enumerator value '32768' cannot be represented as 'unsigned char', value is '32768'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(76,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(76,2): warning C4369: 'SDK::ETransformGizmoSubElements::ScaleAllPlanes':  enumerator value '57344' cannot be represented as 'unsigned char', value is '57344'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(77,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(77,2): warning C4369: 'SDK::ETransformGizmoSubElements::ScaleUniform':  enumerator value '65536' cannot be represented as 'unsigned char', value is '65536'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(78,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(78,2): warning C4369: 'SDK::ETransformGizmoSubElements::StandardTranslateRotate':  enumerator value '1022' cannot be represented as 'unsigned char', value is '1022'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(79,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(79,2): warning C4369: 'SDK::ETransformGizmoSubElements::TranslateRotateUniformScale':  enumerator value '66558' cannot be represented as 'unsigned char', value is '66558'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(80,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(80,2): warning C4369: 'SDK::ETransformGizmoSubElements::FullTranslateRotateScale':  enumerator value '131070' cannot be represented as 'unsigned char', value is '131070'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(81,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\InteractiveToolsFramework_structs.hpp(81,2): warning C4369: 'SDK::ETransformGizmoSubElements::ETransformGizmoSubElements_MAX':  enumerator value '131071' cannot be represented as 'unsigned char', value is '131071'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\ImageWrapper_structs.hpp(18,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\ImageWrapper_structs.hpp(18,2): warning C4369: 'SDK::EBitmapCSType::BCST_LCS_sRGB':  enumerator value '1934772034' cannot be represented as 'unsigned char', value is '1934772034'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\ImageWrapper_structs.hpp(19,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\ImageWrapper_structs.hpp(19,2): warning C4369: 'SDK::EBitmapCSType::BCST_LCS_WINDOWS_COLOR_SPACE':  enumerator value '1466527264' cannot be represented as 'unsigned char', value is '1466527264'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\ImageWrapper_structs.hpp(20,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\ImageWrapper_structs.hpp(20,2): warning C4369: 'SDK::EBitmapCSType::BCST_PROFILE_LINKED':  enumerator value '1279872587' cannot be represented as 'unsigned char', value is '1279872587'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\ImageWrapper_structs.hpp(21,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\ImageWrapper_structs.hpp(21,2): warning C4369: 'SDK::EBitmapCSType::BCST_PROFILE_EMBEDDED':  enumerator value '1296188740' cannot be represented as 'unsigned char', value is '1296188740'
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\ImageWrapper_structs.hpp(22,2): warning C4309: 'initializing': truncation of constant value
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\ImageWrapper_structs.hpp(22,2): warning C4369: 'SDK::EBitmapCSType::BCST_MAX':  enumerator value '1934772035' cannot be represented as 'unsigned char', value is '1934772035'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\xstring(2765,53): warning C4244: 'argument': conversion from 'wchar_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\xstring(2621,17): message : see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\Basic.hpp(156,22): message : see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetaClient\KetaClient\SDK\Basic.hpp(156,4): message : see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'SDK::FString::ToString'
+  Generating code
+  3 of 205 functions ( 1.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  KetaClient.vcxproj -> C:\Users\Whisper\Desktop\Ketamine\Gameserver\KetamineGS\x64\Release\KetaClient.dll
