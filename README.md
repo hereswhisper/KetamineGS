@@ -7,7 +7,9 @@ just type in `open ALS_DemoLevel?listen` and the server will start listening.<br
 Known Issues:<br>
 - Client has little replication (besides the basics like Pawn, PlayerController, PlayerState, but no CheatManager)<br>
 - Camera isn't attached to Pawn *Trying Client DLL tomorrow to fix it*<br>
-- No HUD (should be a easy fix)
+- No HUD (should be a easy fix)<br><br>
+
+**This is not ready for production. Please do not use this to publicly host, also please ask me before using my code**
 
 There is no SDK included so you will have to dump one yourself (use Dumper-7)<br>
 Game is found here: https://thrilldawill.itch.io/mr-krabs-overdoses-on-ketamine
