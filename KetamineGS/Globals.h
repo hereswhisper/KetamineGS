@@ -12,4 +12,5 @@ namespace Globals {
 	UGameplayStatics* GameplayStatics;
 	AOnlineBeaconHost* Beacon;
 	UNetDriver* NetDriver;
+	UKismetSystemLibrary* System;
 }

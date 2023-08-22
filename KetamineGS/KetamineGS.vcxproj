@@ -154,6 +154,7 @@
     <ClInclude Include="Helpers.h" />
     <ClInclude Include="Hooks.h" />
     <ClInclude Include="PropertyFixup.hpp" />
+    <ClInclude Include="Replication.h" />
     <ClInclude Include="SDK.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

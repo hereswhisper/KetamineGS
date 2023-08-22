@@ -33,6 +33,15 @@
     <ClCompile Include="SDK\MrKrabsBP_functions.cpp">
       <Filter>Header Files\SDK</Filter>
     </ClCompile>
+    <ClCompile Include="SDK\ALS_Camera_BPI_functions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\ALS_PlayerCameraManager_functions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\ALS_Player_Controller_functions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="PropertyFixup.hpp">
@@ -45,6 +54,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Helpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hooks.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Replication.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

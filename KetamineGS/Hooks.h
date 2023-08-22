@@ -11,4 +11,11 @@ namespace Hooks {
 	void HandleStartingNewPlayerHook(UObject* Object, UFunction* Function, void* Params) {
 
 	}
+
+	// 0x200DB20
+	uintptr_t(*GetNetMode)(UWorld* World);
+	uintptr_t GetNetModeHook(UWorld* World)
+	{
+		return 0;
+	}
 }
